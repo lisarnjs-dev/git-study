@@ -17,3 +17,5 @@
 # test miso - Modify
 
 # conflict test1
+
+# conflict test2 - test success
