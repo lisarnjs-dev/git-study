@@ -6,8 +6,8 @@
 
 # ChungO
 
-<<<<<<< HEAD
 # Sangwook
-=======
+
 # CHungO-2
->>>>>>> feature-ChungO
+
+# Sangwook-2
