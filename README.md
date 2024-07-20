@@ -14,6 +14,4 @@
 
 # hyemin
 
-# Miso
-
 # test miso - Modify
