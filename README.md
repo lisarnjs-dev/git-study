@@ -2,3 +2,4 @@
 
 # lisa
 # guminji
+# ChungO
